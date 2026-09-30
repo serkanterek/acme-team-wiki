@@ -2,7 +2,7 @@
 
 ## what-we-do
 
-- [About this wiki](README.md) — A public sample of a CommonGround team wiki, for a fictional gadget company; start at index.md. · 2026-09-15
+- [About this wiki](README.md) — A public sample of a CommonGround team wiki, for a fictional gadget company; start at index.md. · 2026-09-30
 - [What Acme does](about/what-acme-does.md) — Acme Corporation makes explosives, rockets and gadgets with one customer in mind and one target in the desert. · 2026-09-02
 
 ## how-we-work
